@@ -1,25 +1,9 @@
-<!--
-**khushikala/khushikala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2> Hi there, I'm Khushi Kala! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> </h2>
 
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
 <p><em>Computer Science Engineer and Front-end developer</em></p><img src="https://4.bp.blogspot.com/-fYSVzq-2XBA/Xd8YbktuliI/AAAAAAAMxBs/SP1wSwoqFqIxyOpRnpRMO-wBruNZ4MDtQCLcBGAsYHQ/s1600/AS0006083_02.gif" width="40"> 
 
 ## Find me around the web 🌎: 
-
 - <a href="https://linkedin.com/in/khushikala/">LinkedIn</a> 💼
 
 ## 🛠️ About Me
@@ -43,5 +27,5 @@ Here are some ideas to get you started:
   <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/khushikala/count.svg" />
 </p>
 
-## ✨Join me as we unleash the mystical fusion of Tech & Magic!✨🧙‍♀️🖥️  
+## ✨Join me as we unleash the mystical fusion of Tech & Magic!🧙‍♀️🖥️  
 🔗 [Portfolio Website](https://khushikala.netlify.app/) 
