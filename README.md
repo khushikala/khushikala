@@ -42,8 +42,6 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/khushikala/count.svg" />
 </p>
- 
-| <img align = 'left' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">🎵 Now Playing <img align = 'right' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">                                                                                                       |
 
 ## ✨Join me as we unleash the mystical fusion of Tech & Magic!✨🧙‍♀️🖥️  
 🔗 [Portfolio Website](https://khushikala.netlify.app/) 
