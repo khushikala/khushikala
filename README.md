@@ -4,12 +4,7 @@
 <p><em>Computer Science Engineer and Front-end developer</em></p><img src="https://4.bp.blogspot.com/-fYSVzq-2XBA/Xd8YbktuliI/AAAAAAAMxBs/SP1wSwoqFqIxyOpRnpRMO-wBruNZ4MDtQCLcBGAsYHQ/s1600/AS0006083_02.gif" width="40"> 
 
 ## Find me around the web 🌎: 
-- <a href="https://linkedin.com/in/khushikala/">LinkedIn</a> 💼
-
-## 🛠️ About Me
-- 💻 **Tech Stack:** JavaScript (JS6), React, Redux, Bootstrap, HTML, CSS, Java, SQL, MySQL 
-- 📫 **Reach me at:** [khushikala28@gmail.com](mailto:khushikala28@gmail.com)  
-- 🏆 Fun Fact: _"I started in engineering but found my passion in front-end development!"_  
+- <a href="https://linkedin.com/in/khushikala/">LinkedIn</a> 💼 
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
@@ -17,7 +12,6 @@
   - 📫 How to reach me: [khushikala28@gmail.com](mailto:khushikala28@gmail.com)  
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have graduated, but I took an amazing journey to become a Full-Stack Developer, and I am eager to achieve my goal.'  
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushikala&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Khushi Kala's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushikala&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
