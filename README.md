@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 </p>
  
 | <img align = 'left' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">🎵 Now Playing <img align = 'right' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
-✨ _Join me as we unleash the mystical fusion of Tech & Magic!_ ✨🧙‍♀️🖥️  
+## ✨Join me as we unleash the mystical fusion of Tech & Magic!✨🧙‍♀️🖥️  
 🔗 [Portfolio Website](https://khushikala.netlify.app/) 
----
