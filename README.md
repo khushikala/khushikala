@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Khushi Kala! 👋 🤖
+# Hi there, I'm Khushi Kala! 👋 🤖
 
 **🚀 Computer Science Engineer | Front-end Developer**  
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushikala&layout=compact&theme=dark)  
 
 🎯 **Visitor Count**:  
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)  
+![Visitor Count](https://komarev.com/ghpvc/?username=khushikala&color=green)  
 
 🎶 **Now Playing**:  
 ![Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true)  
