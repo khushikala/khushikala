@@ -1,14 +1,14 @@
 <h2> Hi there, I'm Khushi Kala! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> </h2>
 
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
-<p><em>Computer Science Engineer and Front-end developer</em></p><img src="https://4.bp.blogspot.com/-fYSVzq-2XBA/Xd8YbktuliI/AAAAAAAMxBs/SP1wSwoqFqIxyOpRnpRMO-wBruNZ4MDtQCLcBGAsYHQ/s1600/AS0006083_02.gif" width="40"> 
+<p><em>Computer Science Engineer and Back-End developer</em></p><img src="https://4.bp.blogspot.com/-fYSVzq-2XBA/Xd8YbktuliI/AAAAAAAMxBs/SP1wSwoqFqIxyOpRnpRMO-wBruNZ4MDtQCLcBGAsYHQ/s1600/AS0006083_02.gif" width="40"> 
 
 ## Find me around the web 🌎: 
 - <a href="https://linkedin.com/in/khushikala/">LinkedIn</a> 💼 
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
-  - 💬 Ask me about JavaScript (JS6), React, Redux, Bootstrap, HTML, CSS, Core Java, SQL, MySQL
+  - 💬 Ask me about JavaScript (JS6), HTML, CSS, Core Java, Spring Boot, REST APIs, Spring MVC, SQL, MySQL
   - 📫 How to reach me: [khushikala28@gmail.com](mailto:khushikala28@gmail.com)  
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have graduated, but I took an amazing journey to become a Full-Stack Developer, and I am eager to achieve my goal.'  
