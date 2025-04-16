@@ -8,7 +8,7 @@
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
-  - 💬 Ask me about JavaScript (JS6), HTML, CSS, Core Java, Spring Boot, REST APIs, Spring MVC, SQL, MySQL
+  - 💬 Ask me about Core Java, Spring Boot, REST APIs, SQL, MySQL, JavaScript (JS6), HTML, CSS
   - 📫 How to reach me: [khushikala28@gmail.com](mailto:khushikala28@gmail.com)  
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have graduated, but I took an amazing journey to become a Full-Stack Developer, and I am eager to achieve my goal.'  
